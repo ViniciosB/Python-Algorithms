@@ -10,7 +10,7 @@ def insertion_sort(arr):
     return arr
 
 # Example usage:
-arr = [12, 11, 13, 5, 6, 2, 100]
+arr = [12, 11, 13, 5, 6, 2, 100, 1]
 print("Before sorting:", arr)
 sorted_arr = insertion_sort(arr)
 print("After sorting:", sorted_arr)
