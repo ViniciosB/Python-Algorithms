@@ -5,8 +5,10 @@
 
 | Nome do Algoritmo         | Código                                                                                                    |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Pilha                     | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data_structures/stack.py)              |
 | Lista Simplesmente Ligada | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data_structures/linked_list.py)        |
 | Lista Duplamente Ligada   | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data_structures/doubly_linked_list.py) |
+
 
 
 ## Algoritmos de Ordenação
