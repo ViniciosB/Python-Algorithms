@@ -3,10 +3,10 @@
 
 ## Estrutura de Dados
 
-| Nome do Algoritmo         | Código                                                                                             |
-|---------------------------|----------------------------------------------------------------------------------------------------|
-| Lista Simplesmente Ligada | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data structures/linked_list.py) |
-| Lista Duplamente Ligada   | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data structures/linked_list.py) |
+| Nome do Algoritmo         | Código                                                                                                    |
+|---------------------------|-----------------------------------------------------------------------------------------------------------|
+| Lista Simplesmente Ligada | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data structures/linked_list.py)        |
+| Lista Duplamente Ligada   | [![Python](https://img.shields.io/badge/Python-Click%20here-blue)](data structures/doubly_linked_list.py) |
 
 
 ## Algoritmos de Ordenação
